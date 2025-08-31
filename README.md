@@ -103,3 +103,13 @@ select * from test_table;
 
 *1) Созданной базы данных;*
 *2) Результата вывода команды на реплике ```select * from test_table;```.*
+
+---
+
+Решение
+
+![Решение 1](https://github.com/noisy441/12-0-clouddb/blob/main/img/img1.png)
+
+![Решение 1](https://github.com/noisy441/12-0-clouddb/blob/main/img/img2.png)
+
+![Решение 1](https://github.com/noisy441/12-0-clouddb/blob/main/img/img3.png)
